@@ -80,7 +80,7 @@
     "rethinkdbdash": "^2.3.31",
     "sequelize": "^4.38.0",
     "serve-favicon": "^2.5.0",
-    "sqlite3": "^4.0.2",
+    "sqlite3": "^4.0.3",
     "winston": "^3.0.0",
     "yeoman-assert": "^3.1.1",
     "yeoman-test": "^2.0.0"
