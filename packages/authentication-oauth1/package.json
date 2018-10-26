@@ -41,7 +41,7 @@
     "lodash.merge": "^4.6.0"
   },
   "devDependencies": {
-    "@feathersjs/authentication": "^2.1.12",
+    "@feathersjs/authentication": "^2.1.13",
     "@feathersjs/express": "^1.2.7",
     "@feathersjs/feathers": "^3.2.3",
     "body-parser": "^1.15.2",
